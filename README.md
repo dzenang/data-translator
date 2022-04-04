@@ -1,16 +1,16 @@
-#Data format translation program
+# Data format translation program
 
-##Create a project
+## Create a project
 
 Provided project files are in form of a maven project so you need to create 
 new maven project "from existing source" using provided files.
 
-##How to build
+## How to build
 
 Navigate to project root folder DataFormatTranslationProgram and run 
 `mvn clean install`. There will be target folder created with two .jar files. 
 
-##How to run
+## How to run
 Copy Workbook2.csv and Workbook2.prn files from resources folder to target
 folder.
 Navigate to target folder created in previous step and run one of the 
